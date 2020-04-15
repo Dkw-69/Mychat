@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/strange/chatApp/model.tflearn"
+all_model_checkpoint_paths: "/home/strange/chatApp/model.tflearn"
