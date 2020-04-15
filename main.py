@@ -116,29 +116,3 @@ def chat():
 chat()
 #tensorflow==1.5
 
-
-#python3 -m pip install --upgrade https://files.pythonhosted.org/packages/3f/98/5a99af92fb911d7a88a0005ad55005f35b4c1ba8d75fba02df726cd936e6/tensorflow-1.15.0-cp36-cp36m-manylinux2010_x86_64.whl
-
-
-
-
-
-#  <div class="row text-center" id="campground-grid">
-# 	 <div class="col-md-12">
-# 		<% if(noMatch !== null){ %>
-# 		<h6><%= noMatch %></h6>
-# 		<% } %>
-# 	</div> 
-
-# 	<% uploadedImages.forEach((images) => { %>
-# 	<div class="grid">
-# 		<div class="grid-sizer"></div>
-# 		<div class="grid-item">
-# 			<a href="/uploadedImages/<%= images._id %>"></a>
-# 			<img  src="<%= images.image %>" alt="<%= images.name %>">
-# 			<h6><%= images.name %></h6>
-# 		</div>
-# 	</div>
-# 	<% }); %>
-# </div>
-
